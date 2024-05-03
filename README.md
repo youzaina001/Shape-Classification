@@ -1,5 +1,5 @@
 # Shape-Classification
-Shape Classification project (part of IBM's Deep Learning with Python and Tensorflow Course)
+Shape Classification project (part of IBM's Deep Learning with Python and PyTorch Course)
 
 
 In this project, we will train a Convolutional Neural Network to classify shapes. 
